@@ -5,6 +5,12 @@ Section 5 of Web Dev Bootcamp
 05/06/2024
 */
 
+/*3. Use CSS to change all the color titles to have "font-weight: normal;"*/
+h2.color-title{
+    font-weight: normal;
+}
+
+
 /*2. Use CSS to style each of the color titles to meaning. */
 h2#red {
     color: red;
