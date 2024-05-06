@@ -1,0 +1,27 @@
+/* TODO 1. Create a CSS file and incorporate it as an external stylesheet.
+cv-style.css
+Spanish Color Vocabulary Project
+Section 5 of Web Dev Bootcamp
+05/06/2024
+*/
+
+/*2. Use CSS to style each of the color titles to meaning. */
+h2#red {
+    color: red;
+}
+
+h2#blue {
+    color: blue;
+}
+
+h2#orange {
+    color: orange;
+}
+
+h2#green {
+    color: green;
+}
+
+h2#yellow {
+    color: yellow;
+}
