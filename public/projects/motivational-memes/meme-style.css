@@ -21,6 +21,9 @@ img {
 }
 
 /* TODO 4. The text should be center aligned. */
+h1, p {
+    text-align: center;
+}
 
 /* TODO 5. Adjust the margins [for the div] so that the image and text are centered on the page. 
   Hint: You horizontally center a div by giving it a width of 50% and a margin-left of 25%.
