@@ -5,6 +5,12 @@ Section 6
 **/
 
 /* TODO 1. The main h1 text should be using the Regular Libre Baskerville Font from Google Fonts: https://fonts.google.com/specimen/Libre+Baskerville */
+h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 
 /* TODO 2. The text should be white and background black. */
 
