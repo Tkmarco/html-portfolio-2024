@@ -16,6 +16,9 @@ h1 {
 }
 
 /* TODO 3. Add your own image into the images folder inside assets. It should have a 5px white border. */
+img {
+    border: 5px solid white;
+}
 
 /* TODO 4. The text should be center aligned. */
 
