@@ -6,7 +6,7 @@ Section 5 of Web Dev Bootcamp
 */
 
 /*3. Use CSS to change all the color titles to have "font-weight: normal;"*/
-h2.color-title{
+.color-title{
     font-weight: normal;
 }
 
@@ -17,22 +17,22 @@ img {
 }
 
 /*2. Use CSS to style each of the color titles to meaning. */
-h2#red {
+#red {
     color: red;
 }
 
-h2#blue {
+#blue {
     color: blue;
 }
 
-h2#orange {
+#orange {
     color: orange;
 }
 
-h2#green {
+#green {
     color: green;
 }
 
-h2#yellow {
+#yellow {
     color: yellow;
 }
