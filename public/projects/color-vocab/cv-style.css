@@ -10,6 +10,11 @@ h2.color-title{
     font-weight: normal;
 }
 
+/*4. Use CSS (not HTML) to make all the images 200px heigh and 200px wide.*/
+img {
+    height: 200px;
+    width: 200px;
+}
 
 /*2. Use CSS to style each of the color titles to meaning. */
 h2#red {
