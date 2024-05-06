@@ -3,16 +3,17 @@ meme-style.css
 Motivational Meme Project
 Section 6
 **/
-
+/* TODO 2. The text should be white and background black. */
+* {
+    background-color: black;
+    color: white;
+}
 /* TODO 1. The main h1 text should be using the Regular Libre Baskerville Font from Google Fonts: https://fonts.google.com/specimen/Libre+Baskerville */
 h1 {
     font-family: "Libre Baskerville", serif;
     font-weight: 400;
     font-style: normal;
 }
-
-
-/* TODO 2. The text should be white and background black. */
 
 /* TODO 3. Add your own image into the images folder inside assets. It should have a 5px white border. */
 
