@@ -6,7 +6,46 @@
   <title>CSS Flag Project</title>
   <style>
     /* Write your CSS Code here */
-    
+    /* All Text */
+    div > p {
+      text-align: center;
+      font-size: 72px;
+      margin: 0px;
+    }
+
+    /* Whole Flag */
+    div.flag{
+      background-color: #ce1126;
+      height: 600px;
+      width: 900px;
+      position: relative;
+    }
+
+    /* The Flag text */
+    .flag > p {
+      color: white;
+    }
+
+    /* Blue Stripe */
+    div.flag > div {
+      background-color: #002868;
+      height: 300px;
+      width: 100%;
+      border-radius: 0px;
+      position: absolute;
+      top: 25%;
+    }
+
+    /* White Circle */
+    .flag > div > div {
+      background-color: #fff;
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      position: absolute;
+      left: 350px;
+      top: 50px;
+    }
   </style>
 </head>
 
